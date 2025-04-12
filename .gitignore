@@ -1,0 +1,7 @@
+app.db
+config.conf
+.env
+test.ipynb
+./.env
+.idea
+__pycache__/
